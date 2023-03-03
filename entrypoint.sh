@@ -1,1 +1,3 @@
-echo "Ideal barnacle"
+#!/bin/bash
+
+echo "Ideal Barnacle"
