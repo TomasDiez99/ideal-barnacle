@@ -1,5 +1,5 @@
 name: 'Custom Action'
-description: 'Una acción en la EATI 2023 que muestra "Ideal Barnacle" via comando echo'
+description: 'Una acción en la EATI 2023 que el nombre aleatorio de un pokemon'
 runs:
   using: 'docker'
   image: 'Dockerfile'
