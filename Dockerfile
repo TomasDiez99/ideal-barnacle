@@ -2,6 +2,7 @@ FROM archlinux
 
 RUN pacman -Suy --noconfirm \
         bash \
+        curl \
         httpie \
         jq
 
